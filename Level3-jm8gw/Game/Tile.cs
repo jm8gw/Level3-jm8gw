@@ -11,6 +11,14 @@ using System;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 
+/* Jeffrey Mouritzen (jm8gw)
+ * CS 4730
+ * 
+ * Reference Credit: Much of this game was designed and built with the help of the Platform2D MonoGame Tutorial/Example game, 
+ * which I was told I was allowed to refer to for help.
+ * https://github.com/MonoGame/MonoGame.Samples/tree/3.8.1/Platformer2D
+ */
+
 namespace Level3_jm8gw
 {
 
